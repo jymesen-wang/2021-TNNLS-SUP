@@ -16,6 +16,6 @@ F   ： n*d1 samples after noise removal in subspace
 Please make sure that the documents Eu2_distance.m and ClusteringMeasure.m are in the same folder as SUP.m and GOSUP.m
 
 Use the codes, please cite
-Wang J, Wang L, Nie F, et al. Joint Feature Selection and Extraction With Sparse Unsupervised Projection[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+Wang J, Wang L, Nie F, et al. Joint Feature Selection and Extraction With Sparse Unsupervised Projection[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, doi: 10.1109/TNNLS.2021.3111714.
 
 If you have any questions, please connect wanglinjun@mail.nwpu.edu.cn
